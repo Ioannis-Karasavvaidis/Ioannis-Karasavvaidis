@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nothing to see here anymore, please head over to my main account -> [https://www.github.com/comfucios](https://www.github.com/comfucios)
+
 <!--
 **Ioannis-Karasavvaidis/Ioannis-Karasavvaidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
