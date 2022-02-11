@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
 Nothing to see here anymore, please head over to my main account -> [https://www.github.com/comfucios](https://www.github.com/comfucios)
 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ioannis-karasavvaidis&label=Profile%20views&color=0e75b6&style=flat" alt="ioannis-karasavvaidis" /> </p>
 <!--
 **Ioannis-Karasavvaidis/Ioannis-Karasavvaidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
