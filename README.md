@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Nothing to see here anymore, please head over to my main account -> [https://www.github.com/comfucios](https://www.github.com/comfucios)
+Nothing to see here, please head over to my main account -> [https://www.github.com/comfucios](https://www.github.com/comfucios)
 
 
 
